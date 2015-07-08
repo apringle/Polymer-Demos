@@ -8,6 +8,8 @@
     <link rel="import" href="../bower_components/paper-menu/paper-menu.html">
     <link rel="import" href="../bower_components/paper-item/paper-item.html">
 
+    <link rel="import" href="../bower_components/iron-pages/iron-pages.html">
+
     <link rel="import" href="news-feed.html">
 
     <template>
@@ -26,7 +28,10 @@
                     <paper-icon-button icon="menu" paper-drawer-toggle></paper-icon-button>
                     <div class="title">Tour De Polymer</div>
                 </paper-toolbar>
-                <news-feed></news-feed>
+                <iron-pages selected="{{selectedPage}}">
+                    <news-feed></news-feed>
+                    <div>Page 2</div>
+                </iron-pages>
             </div>
 
         </paper-drawer-panel>
