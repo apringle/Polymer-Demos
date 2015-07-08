@@ -1,0 +1,27 @@
+<dom-module id="location-map">
+    <template>
+        <link rel="import" href="../bower_components/iron-ajax/iron-ajax.html">
+
+        <iron-ajax
+                url="/PolymerDemos/data/locations.json"
+                handle-as="json"
+                on-response="handleLocationsResponse"
+                auto>
+
+        </iron-ajax>
+
+    </template>
+    <script>
+        Polymer({
+            is: "location-map",
+            properties: {
+                locations: Array
+            },
+            handleLocationsResponse : function(response)
+            {
+                console.log(response);
+                this.locations = response.detail.response;
+            }
+        });
+    </script>
+</dom-module>
