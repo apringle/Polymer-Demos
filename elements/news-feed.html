@@ -1,6 +1,7 @@
 <dom-module id="news-feed">
     <template>
         <link rel="import" href="../bower_components/iron-ajax/iron-ajax.html">
+        <link rel="import" href="../bower_components/paper-material/paper-material.html">
 
         <iron-ajax
             id="newsFeedAjax"
@@ -11,8 +12,10 @@
         </iron-ajax>
 
         <template is="dom-repeat" items="{{news}}" as="newsItem">
-            <h1>{{newsItem.headline}}</h1>
-            <p>{{newsItem.desc}}</p>
+            <paper-material elevation="2">
+                <h1>{{newsItem.headline}}</h1>
+                <p>{{newsItem.desc}}</p>
+            </paper-material>
         </template>
 
     </template>
