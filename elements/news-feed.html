@@ -10,6 +10,11 @@
             auto>
         </iron-ajax>
 
+        <template is="dom-repeat" items="{{news}}" as="newsItem">
+            <h1>{{newsItem.headline}}</h1>
+            <p>{{newsItem.desc}}</p>
+        </template>
+
     </template>
     <script>
         Polymer({
@@ -19,7 +24,7 @@
             },
             handleNewsResponse : function(response)
             {
-                console.log(response);
+                this.news = response.detail.response;
             }
         });
     </script>
