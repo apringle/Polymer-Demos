@@ -17,8 +17,8 @@
                 auto>
         </iron-ajax>
 
-        <google-map>
-            
+        <google-map id="googleMap" fit-to-markers>
+
         </google-map>
 
     </template>
@@ -31,6 +31,16 @@
             handleLocationsResponse : function(response)
             {
                 this.locations = response.detail.response;
+                var googleMap = this.$.googleMap;
+
+                this.locations.forEach(function(location,index)
+                {
+                    var newMapMarker = document.createElement("google-map-marker");
+                    newMapMarker.latitude = location.lat;
+                    newMapMarker.longitude = location.lng;
+
+                    googleMap.appendChild(newMapMarker);
+                });
             }
         });
     </script>
