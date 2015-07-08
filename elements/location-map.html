@@ -1,14 +1,25 @@
 <dom-module id="location-map">
     <template>
         <link rel="import" href="../bower_components/iron-ajax/iron-ajax.html">
+        <link rel="import" href="../bower_components/google-map/google-map.html">
 
+        <style>
+            google-map
+            {
+                height: 500px;
+            }
+        </style>
+        
         <iron-ajax
                 url="/PolymerDemos/data/locations.json"
                 handle-as="json"
                 on-response="handleLocationsResponse"
                 auto>
-
         </iron-ajax>
+
+        <google-map>
+            
+        </google-map>
 
     </template>
     <script>
@@ -19,7 +30,6 @@
             },
             handleLocationsResponse : function(response)
             {
-                console.log(response);
                 this.locations = response.detail.response;
             }
         });
