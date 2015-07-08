@@ -1,5 +1,14 @@
 <dom-module id="news-feed">
     <template>
+        <link rel="import" href="../bower_components/iron-ajax/iron-ajax.html">
+
+        <iron-ajax
+            id="newsFeedAjax"
+            handle-as="json"
+            url="/PolymerDemos/data/news.json"
+            on-response="handleNewsResponse"
+            auto>
+        </iron-ajax>
 
     </template>
     <script>
@@ -7,6 +16,10 @@
             is: "news-feed",
             properties : {
                 news : Array
+            },
+            handleNewsResponse : function(response)
+            {
+                console.log(response);
             }
         });
     </script>
