@@ -1,0 +1,530 @@
+[
+  {
+    "rank": 1,
+    "nationality": "GER",
+    "name": "GREIPELAndré",
+    "number": 75,
+    "team": "LOTTO-SOUDAL",
+    "points": 101
+  },
+  {
+    "rank": 2,
+    "nationality": "SVK",
+    "name": "SAGANPeter",
+    "number": 47,
+    "team": "TINKOFF-SAXO",
+    "points": 89
+  },
+  {
+    "rank": 3,
+    "nationality": "GER",
+    "name": "DEGENKOLB John",
+    "number": 81,
+    "team": "TEAM GIANT-ALPECIN",
+    "points": 75
+  },
+  {
+    "rank": 4,
+    "nationality": "GBR",
+    "name": "CAVENDISH Mark",
+    "number": 112,
+    "team": "ETIXX-QUICK STEP",
+    "points": 66
+  },
+  {
+    "rank": 5,
+    "nationality": "GER",
+    "name": "MARTIN Tony",
+    "number": 114,
+    "team": "ETIXX-QUICK STEP",
+    "points": 60
+  },
+  {
+    "rank": 6,
+    "nationality": "FRA",
+    "name": "COQUARDBryan",
+    "number": 122,
+    "team": "TEAM EUROPCAR",
+    "points": 45
+  },
+  {
+    "rank": 7,
+    "nationality": "GBR",
+    "name": "FROOME Christopher",
+    "number": 31,
+    "team": "TEAM SKY",
+    "points": 40
+  },
+  {
+    "rank": 8,
+    "nationality": "BEL",
+    "name": "VAN AVERMAET Greg",
+    "number": 68,
+    "team": "BMC RACING TEAM",
+    "points": 35
+  },
+  {
+    "rank": 9,
+    "nationality": "ESP",
+    "name": "RODRIGUEZ OLIVER Joachim",
+    "number": 91,
+    "team": "TEAM KATUSHA",
+    "points": 30
+  },
+  {
+    "rank": 10,
+    "nationality": "FRA",
+    "name": "GALLOPIN Tony",
+    "number": 71,
+    "team": "LOTTO-SOUDAL",
+    "points": 30
+  },
+  {
+    "rank": 11,
+    "nationality": "FRA",
+    "name": "QUEMENEUR Perrig",
+    "number": 126,
+    "team": "TEAM EUROPCAR",
+    "points": 26
+  },
+  {
+    "rank": 12,
+    "nationality": "FRA",
+    "name": "VUILLERMOZ Alexis",
+    "number": 19,
+    "team": "AG2R LA MONDIALE",
+    "points": 22
+  },
+  {
+    "rank": 13,
+    "nationality": "USA",
+    "name": "VAN GARDEREN Tejay",
+    "number": 61,
+    "team": "BMC RACING TEAM",
+    "points": 21
+  },
+  {
+    "rank": 14,
+    "nationality": "AUS",
+    "name": "DENNIS Rohan",
+    "number": 63,
+    "team": "BMC RACING TEAM",
+    "points": 20
+  },
+  {
+    "rank": 15,
+    "nationality": "BEL",
+    "name": "DE GENDT Thomas",
+    "number": 73,
+    "team": "LOTTO-SOUDAL",
+    "points": 20
+  },
+  {
+    "rank": 16,
+    "nationality": "FRA",
+    "name": "PERICHON Pierre-Luc",
+    "number": 208,
+    "team": "BRETAGNE - SECHE ENVIRONNEMENT",
+    "points": 20
+  },
+  {
+    "rank": 17,
+    "nationality": "CZE",
+    "name": "BARTA Jan",
+    "number": 192,
+    "team": "BORA-ARGON 18",
+    "points": 20
+  },
+  {
+    "rank": 18,
+    "nationality": "IRL",
+    "name": "MARTIN Daniel",
+    "number": 167,
+    "team": "TEAM CANNONDALE-GARMIN",
+    "points": 19
+  },
+  {
+    "rank": 19,
+    "nationality": "NED",
+    "name": "CURVERS Roy",
+    "number": 83,
+    "team": "TEAM GIANT-ALPECIN",
+    "points": 18
+  },
+  {
+    "rank": 20,
+    "nationality": "NED",
+    "name": "CLEMENT Stef",
+    "number": 184,
+    "team": "IAM CYCLING",
+    "points": 17
+  },
+  {
+    "rank": 21,
+    "nationality": "FRA",
+    "name": "BRUN Fréderic",
+    "number": 202,
+    "team": "BRETAGNE - SECHE ENVIRONNEMENT",
+    "points": 17
+  },
+  {
+    "rank": 22,
+    "nationality": "NOR",
+    "name": "BOASSON HAGEN Edvald",
+    "number": 211,
+    "team": "MTN-QHUBEKA",
+    "points": 17
+  },
+  {
+    "rank": 23,
+    "nationality": "ITA",
+    "name": "OSS Daniel",
+    "number": 64,
+    "team": "BMC RACING TEAM",
+    "points": 16
+  },
+  {
+    "rank": 24,
+    "nationality": "NED",
+    "name": "WESTRA Lieuwe",
+    "number": 9,
+    "team": "ASTANA PRO TEAM",
+    "points": 15
+  },
+  {
+    "rank": 25,
+    "nationality": "ITA",
+    "name": "NIBALI Vincenzo",
+    "number": 1,
+    "team": "ASTANA PRO TEAM",
+    "points": 15
+  },
+  {
+    "rank": 26,
+    "nationality": "FRA",
+    "name": "FONSECA Armindo",
+    "number": 206,
+    "team": "BRETAGNE - SECHE ENVIRONNEMENT",
+    "points": 15
+  },
+  {
+    "rank": 27,
+    "nationality": "ITA",
+    "name": "GUARNIERI Jacopo",
+    "number": 93,
+    "team": "TEAM KATUSHA",
+    "points": 13
+  },
+  {
+    "rank": 28,
+    "nationality": "AUS",
+    "name": "RENSHAW Mark",
+    "number": 115,
+    "team": "ETIXX-QUICK STEP",
+    "points": 13
+  },
+  {
+    "rank": 29,
+    "nationality": "FRA",
+    "name": "BARGUIL WARREN",
+    "number": 82,
+    "team": "TEAM GIANT-ALPECIN",
+    "points": 13
+  },
+  {
+    "rank": 30,
+    "nationality": "CZE",
+    "name": "STYBAR Zdenek",
+    "number": 116,
+    "team": "ETIXX-QUICK STEP",
+    "points": 13
+  },
+  {
+    "rank": 31,
+    "nationality": "ESP",
+    "name": "VALVERDE BELMONTE Alejandro",
+    "number": 59,
+    "team": "MOVISTAR TEAM",
+    "points": 12
+  },
+  {
+    "rank": 32,
+    "nationality": "NED",
+    "name": "GESINK Robert",
+    "number": 131,
+    "team": "TEAM LOTTO NL - JUMBO",
+    "points": 11
+  },
+  {
+    "rank": 33,
+    "nationality": "NED",
+    "name": "VAN EMDEN Jos",
+    "number": 138,
+    "team": "TEAM LOTTO NL - JUMBO",
+    "points": 11
+  },
+  {
+    "rank": 34,
+    "nationality": "GBR",
+    "name": "YATESSimon",
+    "number": 109,
+    "team": "ORICA GREENEDGE",
+    "points": 11
+  },
+  {
+    "rank": 35,
+    "nationality": "ESP",
+    "name": "CASTROVIEJO NICOLAS Jonathan",
+    "number": 53,
+    "team": "MOVISTAR TEAM",
+    "points": 10
+  },
+  {
+    "rank": 36,
+    "nationality": "NOR",
+    "name": "KRISTOFF Alexander",
+    "number": 96,
+    "team": "TEAM KATUSHA",
+    "points": 10
+  },
+  {
+    "rank": 37,
+    "nationality": "FRA",
+    "name": "SOUPE GEOFFREY",
+    "number": 178,
+    "team": "COFIDIS, SOLUTIONS CREDITS",
+    "points": 10
+  },
+  {
+    "rank": 38,
+    "nationality": "COL",
+    "name": "URAN URAN Rigoberto",
+    "number": 118,
+    "team": "ETIXX-QUICK STEP",
+    "points": 10
+  },
+  {
+    "rank": 39,
+    "nationality": "COL",
+    "name": "QUINTANA ROJAS Nairo Alexander",
+    "number": 51,
+    "team": "MOVISTAR TEAM",
+    "points": 9
+  },
+  {
+    "rank": 40,
+    "nationality": "GBR",
+    "name": "THOMAS Geraint",
+    "number": 39,
+    "team": "TEAM SKY",
+    "points": 9
+  },
+  {
+    "rank": 41,
+    "nationality": "ESP",
+    "name": "CONTADOR Alberto",
+    "number": 41,
+    "team": "TINKOFF-SAXO",
+    "points": 9
+  },
+  {
+    "rank": 42,
+    "nationality": "NED",
+    "name": "MOLLEMA Bauke",
+    "number": 141,
+    "team": "TREK FACTORY RACING",
+    "points": 9
+  },
+  {
+    "rank": 43,
+    "nationality": "AUT",
+    "name": "BRÄNDLE Matthias",
+    "number": 182,
+    "team": "IAM CYCLING",
+    "points": 9
+  },
+  {
+    "rank": 44,
+    "nationality": "ITA",
+    "name": "MALORI Adriano",
+    "number": 58,
+    "team": "MOVISTAR TEAM",
+    "points": 8
+  },
+  {
+    "rank": 45,
+    "nationality": "CZE",
+    "name": "KREUZIGER Roman",
+    "number": 44,
+    "team": "TINKOFF-SAXO",
+    "points": 7
+  },
+  {
+    "rank": 46,
+    "nationality": "NED",
+    "name": "KELDERMAN Wilco",
+    "number": 132,
+    "team": "TEAM LOTTO NL - JUMBO",
+    "points": 7
+  },
+  {
+    "rank": 47,
+    "nationality": "POL",
+    "name": "KWIATKOWSKI Michal",
+    "number": 111,
+    "team": "ETIXX-QUICK STEP",
+    "points": 7
+  },
+  {
+    "rank": 48,
+    "nationality": "POL",
+    "name": "GOLAS Michal",
+    "number": 113,
+    "team": "ETIXX-QUICK STEP",
+    "points": 6
+  },
+  {
+    "rank": 49,
+    "nationality": "GER",
+    "name": "SIEBERG Marcel",
+    "number": 78,
+    "team": "LOTTO-SOUDAL",
+    "points": 6
+  },
+  {
+    "rank": 50,
+    "nationality": "BEL",
+    "name": "DEBUSSCHERE Jens",
+    "number": 74,
+    "team": "LOTTO-SOUDAL",
+    "points": 6
+  },
+  {
+    "rank": 51,
+    "nationality": "GBR",
+    "name": "CUMMINGS Stephen",
+    "number": 212,
+    "team": "MTN-QHUBEKA",
+    "points": 6
+  },
+  {
+    "rank": 52,
+    "nationality": "FRA",
+    "name": "TULIK ANGÉLO",
+    "number": 128,
+    "team": "TEAM EUROPCAR",
+    "points": 5
+  },
+  {
+    "rank": 53,
+    "nationality": "SLO",
+    "name": "KOREN Kristijan",
+    "number": 165,
+    "team": "TEAM CANNONDALE-GARMIN",
+    "points": 5
+  },
+  {
+    "rank": 54,
+    "nationality": "NED",
+    "name": "DE KORT Koen",
+    "number": 84,
+    "team": "TEAM GIANT-ALPECIN",
+    "points": 4
+  },
+  {
+    "rank": 55,
+    "nationality": "IRL",
+    "name": "ROCHE Nicolas",
+    "number": 36,
+    "team": "TEAM SKY",
+    "points": 4
+  },
+  {
+    "rank": 56,
+    "nationality": "COL",
+    "name": "ARREDONDO MORENO Julian",
+    "number": 142,
+    "team": "TREK FACTORY RACING",
+    "points": 4
+  },
+  {
+    "rank": 57,
+    "nationality": "BEL",
+    "name": "VANBILSEN KENNETH",
+    "number": 179,
+    "team": "COFIDIS, SOLUTIONS CREDITS",
+    "points": 3
+  },
+  {
+    "rank": 58,
+    "nationality": "GBR",
+    "name": "DOWSETT Alex",
+    "number": 54,
+    "team": "MOVISTAR TEAM",
+    "points": 3
+  },
+  {
+    "rank": 59,
+    "nationality": "ITA",
+    "name": "BENNATI Daniele",
+    "number": 43,
+    "team": "TINKOFF-SAXO",
+    "points": 2
+  },
+  {
+    "rank": 60,
+    "nationality": "ITA",
+    "name": "TRENTIN Matteo",
+    "number": 117,
+    "team": "ETIXX-QUICK STEP",
+    "points": 2
+  },
+  {
+    "rank": 61,
+    "nationality": "GBR",
+    "name": "ROWE Luke",
+    "number": 37,
+    "team": "TEAM SKY",
+    "points": 1
+  },
+  {
+    "rank": 62,
+    "nationality": "NZL",
+    "name": "BAUER Jack",
+    "number": 162,
+    "team": "TEAM CANNONDALE-GARMIN",
+    "points": 1
+  },
+  {
+    "rank": 63,
+    "nationality": "LUX",
+    "name": "JUNGELS Bob",
+    "number": 147,
+    "team": "TREK FACTORY RACING",
+    "points": 1
+  },
+  {
+    "rank": 64,
+    "nationality": "SUI",
+    "name": "SCHÄR Michael",
+    "number": 67,
+    "team": "BMC RACING TEAM",
+    "points": 1
+  },
+  {
+    "rank": 65,
+    "nationality": "ESP",
+    "name": "HERRADA LOPEZ José",
+    "number": 56,
+    "team": "MOVISTAR TEAM",
+    "points": 1
+  },
+  {
+    "rank": 66,
+    "nationality": "NED",
+    "name": "WEENING Pieter",
+    "number": 107,
+    "team": "ORICA GREENEDGE",
+    "points": -5
+  }
+]
