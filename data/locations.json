@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Utrecht",
+    "lat": 52.0833,
+    "lng": 5.1167
+  },
+  {
+    "name": "Huy",
+    "lat": 50.518715,
+    "lng": 5.239666
+  },
+  {
+    "name": "Plumelec",
+    "lat": 47.837699,
+    "lng": -2.639409
+  },
+  {
+    "name": "Plateau De Beille",
+    "lat": 42.709683,
+    "lng": 1.702387
+  },
+  {
+    "name": "Valence",
+    "lat": 44.933393,
+    "lng": 4.892360
+  },
+  {
+    "name" : "Alpe d'Huez",
+    "lat": 45.092624,
+    "lng": 6.068348
+  },
+  {
+    "name": "Paris",
+    "lat": 48.856614,
+    "lng": 2.352222
+  }
+]
